@@ -1,0 +1,1 @@
+This repo is for the task on creating bash script for user management
